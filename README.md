@@ -11,14 +11,9 @@ Daily Reflections
 Day 1: [12/11/23]
 Today's Progress
 Came up with an idea and plan.
-Challenges and Blockers
-Challenges faced and how they were addressed or planned to be addressed.
-Learning and Insights
-New skills or knowledge gained today.
-Next Steps
-Goals or tasks for the next day.
-Additional Thoughts
-Other thoughts or reflections on today's work.
+Challenges will be remembering and researching how to write the code I need for what I want to do.  Blockers are the same.
+
+
 Day 2: [Date]
 Repeat the same structure as Day 1
 
