@@ -36,6 +36,8 @@ Attribution
 Acknowledge any external resources, libraries, or individuals who have contributed to your project. This could include:
 
 Open-source libraries used
+I am using MDN, Bootstrap, W3schools and google to figure out how to do what I want to do.
+
 Tutorials or guides followed
 Assistance from mentors, instructors, or peers
 Additional Information
