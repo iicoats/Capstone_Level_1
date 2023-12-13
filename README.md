@@ -1,8 +1,8 @@
 # Capstone_Level_1
-capstone for level 1 Phoenix Ministries
-Phoenix Ministries
+capstone for level 1 Phoenix Transportation
+Phoenix Transportation
 Project Description
-Phoenix Ministries is my brother's 501c3.  It is focused on helping those that have been incarcerated for 20 years or longer.  I have been thinking about building a website for him.   
+Phoenix Transportation takes equipment, supplies and people to the required dock so they can go offshore.   
 
 Problem Statement
 The problem is creating a working website using what I have learned so far.
@@ -16,6 +16,7 @@ Challenges will be remembering and researching how to write the code I need for 
 
 Day 2: [12/12/23]
 I am changing my project from Phoenix Ministries to Phoenix Transportation because it will be easier for me to come up with JavaScript code that does not involve a numbers game.
+
 Day 3: [Date]
 Repeat the same structure as Day 1
 
