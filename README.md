@@ -8,15 +8,15 @@ Problem Statement
 The problem is creating a working website using what I have learned so far.
 
 Daily Reflections
+
 Day 1: [12/11/23]
 Today's Progress
 Came up with an idea and plan.
 Challenges will be remembering and researching how to write the code I need for what I want to do.  Blockers are the same.
 
-
 Day 2: [12/12/23]
 I am changing my project from Phoenix Ministries to Phoenix Transportation because it will be easier for me to come up with JavaScript code that does not involve a numbers game.
-
+I ran into an issue with my form. I had to research a way to multiply by 0.65. ChatGPT showed me how to do it correctly.
 Day 3: [Date]
 Repeat the same structure as Day 1
 
@@ -36,7 +36,7 @@ Attribution
 Acknowledge any external resources, libraries, or individuals who have contributed to your project. This could include:
 
 Open-source libraries used
-I am using MDN, Bootstrap, W3schools and google to figure out how to do what I want to do.
+I am using MDN, Bootstrap, W3schools and google to figure out how to do what I want to do. I have also used Bard, ChatGpt and W3resource
 
 Tutorials or guides followed
 Assistance from mentors, instructors, or peers
