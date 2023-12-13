@@ -14,9 +14,8 @@ Came up with an idea and plan.
 Challenges will be remembering and researching how to write the code I need for what I want to do.  Blockers are the same.
 
 
-Day 2: [Date]
-Repeat the same structure as Day 1
-
+Day 2: [12/12/23]
+I am changing my project from Phoenix Ministries to Phoenix Transportation because it will be easier for me to come up with JavaScript code that does not involve a numbers game.
 Day 3: [Date]
 Repeat the same structure as Day 1
 
