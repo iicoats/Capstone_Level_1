@@ -20,6 +20,7 @@ I ran into an issue with my form. I had to research a way to multiply by 0.65. C
 
 Day 3: [12/13/23]
 Today I will start by changing the mileage charge to $1.95.  Then I will start styling the pages.
+Styling........I am having issues with a couple pictures going full screen instead of small picture repeated. I have requested help. I need to do my text and style it as well.
 
 Day 4: [Date]
 Repeat the same structure as Day 1
