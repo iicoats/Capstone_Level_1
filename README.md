@@ -17,8 +17,9 @@ Challenges will be remembering and researching how to write the code I need for 
 Day 2: [12/12/23]
 I am changing my project from Phoenix Ministries to Phoenix Transportation because it will be easier for me to come up with JavaScript code that does not involve a numbers game.
 I ran into an issue with my form. I had to research a way to multiply by 0.65. ChatGPT showed me how to do it correctly.
-Day 3: [Date]
-Repeat the same structure as Day 1
+
+Day 3: [12/13/23]
+Today I will start by changing the mileage charge to $1.95.  Then I will start styling the pages.
 
 Day 4: [Date]
 Repeat the same structure as Day 1

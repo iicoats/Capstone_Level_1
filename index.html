@@ -20,50 +20,15 @@
     <a href="page2.html"> <button class="about">About Us</button></a>
     <a href="contact.html"><button class="contact">Contact Us</button></a>
 
-    <!DOCTYPE html>
-    <html lang="en">
-      <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Multiplication Form</title>
-        <script>
-          function multiplyBy65() {
-            // Get the input value
-            let inputValue = document.getElementById("numberInput").value;
+    <style>
+      body {
+        background-image: url('https://media.istockphoto.com/id/453487163/photo/colorful-phoenix-rising-on-white-background.jpg?s=2048x2048&w=is&k=20&c=U5cwMaiAd7Ez4NAg_q4vub8BXlPx-X83knv3dbbHzCA=');
+      }
+      </style>
 
-            // Check if the input is a valid number
-            if (isNaN(inputValue)) {
-              alert("Please enter a valid number");
-              return;
-            }
-
-            // Perform the multiplication
-            let result = inputValue * 0.65;
-
-            // Display the result
-            document.getElementById("result").innerHTML = "Result: " + result;
-          }
-        </script>
-      </head>
-      <body>
-        <!-- copied from chatgpt -->
-        <form>
-          <label for="numberInput">Enter a number:</label>
-          <input
-            type="text"
-            id="numberInput"
-            name="numberInput"
-            placeholder="Enter a number"
-          />
-
-          <button type="button" onclick="multiplyBy65()">
-            Multiply by 0.65
-          </button>
-        </form>
-
-        <p id="result"></p>
-      </body>
-    </html>
+    
+       
+      
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
