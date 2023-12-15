@@ -1,5 +1,6 @@
-html{height: 100%;
-  margin:0;
+html {
+  height: 100%;
+  margin: 0;
 }
 
 .bg {
@@ -10,6 +11,20 @@ html{height: 100%;
   background-size: cover;
 }
 
+form {
+  font-size: 18px;
+  text-color: blue;
+}
+
+
 div {
-  
+  diplay: center;
+  text-color: blue;
+
+}
+
+nav {
+  font-size: 25px;
+  font-color: blue;
+  text-align: center;
 }

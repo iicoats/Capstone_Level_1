@@ -25,8 +25,9 @@ Styling........I am having issues with a couple pictures going full screen inste
 Day 4: [12/14/23]
 I need to add content to my project as soon as I can get the repository on to this computer.  Cloned repo to this machine. Added some text. Adding an extension to VScode so I can go live.
 
-Day 5: [Date]
-Repeat the same structure as Day 1
+Day 5: [12/15/23
+Downloaded an extintion for golive so I can check on my page.  Will be adding and styling text today.
+Added some content; broke buttons on home page, will ask for help in class.
 
 Final Reflection
 (To be completed at the end of the week)

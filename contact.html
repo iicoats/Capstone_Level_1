@@ -1,49 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="styles.css" />
-    
-    <title>Contact</title>
-  </head>
-  <body class="bg">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css" />
+  <script source="script.js"></script>
+
+  <title>Contact</title>
+</head>
+
+<body class="bg">
   <h1>Contact Us</h1>
 
-  
-    <a href="index.html"><button class="home">Home</button></a>
-    <a href="page2.html"> <button class="about">About Us</button></a>
-    <a href="contact.html"><button class="contact">Contact Us</button></a>
-     
+
+  <a href="index.html"><button class="home">Home</button></a>
+  <a href="page2.html"> <button class="about">About Us</button></a>
+  <a href="contact.html"><button class="contact">Contact Us</button></a>
+
   <Main>
-    <div display: center>
+    <div>
       Phoenix Transportation
       234 Production Drive
-      No, LA 70003
+      None, LA 70003
 
       Phone Number 337-222-2222
     </div>
+
+    <p>
+      Charges include mileage and a fuel surcharge. Mileage is $1.95 a mile. Fuel surcharge is $50 for transportation
+      within a 50 mile range. For transportaion over 50 miles, the surchage is $100 with an additional $50 for every
+      fifty miles added to the travel.
+    </p>
   </Main>
-    
 
-      <form>
-        <label for="numberInput">Enter mileage:</label>
-        <input
-          type="text"
-          id="numberInput"
-          name="numberInput"
-          placeholder="Enter mileage"
-        />
-  
-        <button type="submit" >Multiply by 1.95</button>
-      </form>
-  
-      <p id="result"></p>
-    
 
-    
-    
+  <form>
+    <label for="numberInput">Enter mileage:</label>
+    <input type="text" id="numberInput" name="numberInput" />
 
-    <script src="script.js"></script>
-  </body>
+    <button type="submit">$1.95/mile</button>
+  </form>
+
+  <p font-color: blue, id="result"></p>
+
+
+
+
+
+  <script src="script.js"></script>
+</body>
+
 </html>
