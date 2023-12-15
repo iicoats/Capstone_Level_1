@@ -23,7 +23,7 @@ Today I will start by changing the mileage charge to $1.95.  Then I will start s
 Styling........I am having issues with a couple pictures going full screen instead of small picture repeated. I have requested help. I need to do my text and style it as well.
 
 Day 4: [12/14/23]
-I need to add content to my project as soon as I can get the repository on to this computer.  
+I need to add content to my project as soon as I can get the repository on to this computer.  Cloned repo to this machine. Added some text. Adding an extension to VScode so I can go live.
 
 Day 5: [Date]
 Repeat the same structure as Day 1
