@@ -2,7 +2,7 @@
       .scrolling-text {
         position: relative;
         white-space: nowrap;
-        animation: scroll-left 20s linear infinite;
+        animation: scroll-left 15s linear infinite;
         text-decoration-color: chartreuse;
       }
 
