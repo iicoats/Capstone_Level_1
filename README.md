@@ -31,26 +31,19 @@ Downloaded an extintion for golive so I can check on my page. Will be adding and
 Added some content; broke buttons on home page, will ask for help in class.
 Working on content and styling during class. Asked Lewis for help with what I did earlier today. I cleaned up some styling. In the process, my scrolling text on index page broke. Tomorrow I am going to work on adding a card and come up with some more content for site.
 
-Day 6:  [12/16/23]
-added cards with text and photo to index and page2, worked on styling, now I am going to research hamburger menus
+Day 6: [12/16/23]
+added cards with text and photo to index and page2, worked on styling.
 
 Final Reflection
-(To be completed at the end of the week)
 
-Overview of the entire project experience.
-Reflection on successes and areas for improvement.
-Personal growth and learnings.
-Attribution
-Acknowledge any external resources, libraries, or individuals who have contributed to your project. This could include:
+his project was tough. I have been struggling but do feel that I am understanding a little more everyday. Styling is the hardest for me. With all of the options, I fall down the rabbit hole researching. I was able to contain myself and find what I needed.
 
 Open-source libraries used
 I am using MDN, Bootstrap, W3schools and google to figure out how to do what I want to do. I have also used Bard, ChatGpt and W3resource, SheCodes
+Lewis and Brian (instructor and TA) gave me a lot of great input
 
-Tutorials or guides followed
-Assistance from mentors, instructors, or peers
-Additional Information
-Installation Instructions
-Provide step-by-step instructions on how to install and run your project.
+<!-- Installation Instructions
+Provide step-by-step instructions on how to install and run your project. -->
 
 Usage
-Explain how to use the project. Include any necessary commands, user instructions, or examples.
+The only think that needs a bit of explanation is the form. Enter the milage from point A to B, click on the button. The result will show underneath the form.
