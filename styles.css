@@ -17,14 +17,8 @@ form {
 }
 
 
-div {
-  diplay: center;
-  text-color: blue;
-
-}
-
-nav {
-  font-size: 25px;
-  font-color: blue;
+.div {
   text-align: center;
 }
+
+  

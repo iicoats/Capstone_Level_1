@@ -25,9 +25,10 @@ Styling........I am having issues with a couple pictures going full screen inste
 Day 4: [12/14/23]
 I need to add content to my project as soon as I can get the repository on to this computer.  Cloned repo to this machine. Added some text. Adding an extension to VScode so I can go live.
 
-Day 5: [12/15/23
+Day 5: [12/15/23]
 Downloaded an extintion for golive so I can check on my page.  Will be adding and styling text today.
 Added some content; broke buttons on home page, will ask for help in class.
+Working on content and styling during class. Asked Lewis for help with what I did earlier today.
 
 Final Reflection
 (To be completed at the end of the week)
@@ -39,7 +40,7 @@ Attribution
 Acknowledge any external resources, libraries, or individuals who have contributed to your project. This could include:
 
 Open-source libraries used
-I am using MDN, Bootstrap, W3schools and google to figure out how to do what I want to do. I have also used Bard, ChatGpt and W3resource
+I am using MDN, Bootstrap, W3schools and google to figure out how to do what I want to do. I have also used Bard, ChatGpt and W3resource, SheCodes
 
 Tutorials or guides followed
 Assistance from mentors, instructors, or peers

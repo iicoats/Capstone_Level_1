@@ -22,34 +22,4 @@ function multiplyBy195(event) {
   }
 }
 
-  // copied from SheCodes
-  <p class="scrolling-text">
-  Scrolling text! 
-</p>
 
-<style>
-  .scrolling-text {
-    position: relative;
-    white-space: nowrap;
-    animation: scroll-left 20s linear infinite;
-  }
-
-  @keyframes scroll-left {
-    from {
-     left: 100%;
-     width: 500%; 
-    }
-    to {
-      left: -100%;
-      width: 500%;
-    }
-  }
-</style>
-
-<script>
-  function scrollleft() {
-    document.getElementById("scrolling-text").style.left = '100%';
-    setTimeout(scrollleft, 25);
-  }
-   scrollleft();
-</script> 
