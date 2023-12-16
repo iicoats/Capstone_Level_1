@@ -11,9 +11,28 @@ html {
   background-size: cover;
 }
 
+.bg2 {
+  background-image: url('https://media.istockphoto.com/id/453487163/photo/colorful-phoenix-rising-on-white-background.jpg?s=2048x2048&w=is&k=20&c=U5cwMaiAd7Ez4NAg_q4vub8BXlPx-X83knv3dbbHzCA=');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.bg3 {
+  background-image: url('https://media.istockphoto.com/id/1445074332/photo/bright-colorful-big-rigs-semi-trucks-with-semi-trailers-standing-in-the-row-on-truck-stop.jpg?s=2048x2048&w=is&k=20&c=W3iJ67k28-XFpB9KO3t39sn9ecITu3cuKAiLXWauzj8=');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
 form {
   font-size: 18px;
-  text-color: blue;
+  
 }
 
 

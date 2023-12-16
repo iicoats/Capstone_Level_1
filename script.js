@@ -4,7 +4,7 @@
 const form = document.querySelector("form")
 form.addEventListener("submit", multiplyBy195)
 function multiplyBy195(event) {
-  // Get the input value
+  // Get the input number
   event.preventDefault()
   let input = document.getElementById("numberInput").value;
 

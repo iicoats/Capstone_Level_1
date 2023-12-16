@@ -1,0 +1,20 @@
+<style>
+      .scrolling-text {
+        position: relative;
+        white-space: nowrap;
+        animation: scroll-left 20s linear infinite;
+        text-decoration-color: chartreuse;
+      }
+
+      @keyframes scroll-left {
+        from {
+          left: 100%;
+          width: 500%;
+        }
+
+        to {
+          left: -100%;
+          width: 500%;
+        }
+      }
+    </style>
