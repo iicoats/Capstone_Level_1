@@ -31,6 +31,9 @@ Downloaded an extintion for golive so I can check on my page. Will be adding and
 Added some content; broke buttons on home page, will ask for help in class.
 Working on content and styling during class. Asked Lewis for help with what I did earlier today. I cleaned up some styling. In the process, my scrolling text on index page broke. Tomorrow I am going to work on adding a card and come up with some more content for site.
 
+Day 6:  [12/16/23]
+added cards with text and photo to index and page2; worked on styling; now I am going to research hamburger menus
+
 Final Reflection
 (To be completed at the end of the week)
 

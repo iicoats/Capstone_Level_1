@@ -2,8 +2,8 @@
       .scrolling-text {
         position: relative;
         white-space: nowrap;
-        animation: scroll-left 15s linear infinite;
-        text-decoration-color: chartreuse;
+        animation: scroll-left 30s linear infinite;
+        color: yellow;
       }
 
       @keyframes scroll-left {
