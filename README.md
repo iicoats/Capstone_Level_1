@@ -36,7 +36,7 @@ added cards with text and photo to index and page2, worked on styling.
 
 Final Reflection
 
-his project was tough. I have been struggling but do feel that I am understanding a little more everyday. Styling is the hardest for me. With all of the options, I fall down the rabbit hole researching. I was able to contain myself and find what I needed.
+This project was tough. I have been struggling but do feel that I am understanding a little more everyday. Styling is the hardest for me. With all of the options, I fall down the rabbit hole researching. I was able to contain myself and find what I needed.
 
 Open-source libraries used
 I am using MDN, Bootstrap, W3schools and google to figure out how to do what I want to do. I have also used Bard, ChatGpt and W3resource, SheCodes
@@ -46,4 +46,4 @@ Lewis and Brian (instructor and TA) gave me a lot of great input
 Provide step-by-step instructions on how to install and run your project. -->
 
 Usage
-The only think that needs a bit of explanation is the form. Enter the milage from point A to B, click on the button. The result will show underneath the form.
+The only thinkgthat needs a bit of explanation is the form. Enter the milage from point A to B, click on the button. The result will show underneath the form.
